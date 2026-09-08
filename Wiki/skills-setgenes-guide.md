@@ -38,7 +38,7 @@ Before using the skill, make sure you have:
 1. Place a **normal seed** in your hotbar.
 2. Head over to the **`/st"**.
 3. Click on the top right lighting icon.
-4. Search for the **geneticist ultimate** and clikc on **activate**.
+4. Search for the **geneticist ultimate** and click on **activate**.
 5. Select the desired gene combination from the menu.
 
 ![Plant Gene Structure menu](../assets/setgenes-gene-structure.png)
