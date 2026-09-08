@@ -28,6 +28,10 @@ Brits PvE Worlds uses a Skill Tree system that allows you to specialize your cha
   
 > **Note:** Skill effects, costs, and maximum levels are listed below based on the current V2 Skill Tree.
 
+> 💡 **Tip**
+>
+> Before prestiging, complete Quartermaster T4-T5 quests but **don't claim the rewards**. Once you prestige, turn them in immediately to gain levels much faster.
+
 ---
 
 ## Gathercraft
