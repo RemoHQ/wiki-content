@@ -105,6 +105,7 @@ Designed to reduce damage from impacts and explosions.
 The strongest choice for direct combat.
 
 **Best For**
+- Operations
 - Raid Worlds
 - Patrol Helis
 - Harbinger
