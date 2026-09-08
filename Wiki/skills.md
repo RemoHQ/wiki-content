@@ -38,6 +38,24 @@ Brits PvE Worlds uses a Skill Tree system that allows you to specialize your cha
 
 Gathercraft focuses on resource collection, recycling, fishing and other gathering activities.
 
+### Recommended Early Skills
+
+Your main goal during the early game is to level up as quickly as possible. Since Quartermaster Tasks are the fastest source of XP, you should prioritize the skills that improve your resource gathering.
+
+### Priority 1 - Mining
+
+Mining should be your priority if you plan on completing Stone, Metal, or Sulfur Quartermaster Tasks.
+
+**Prioritize unlocking:**
+- Mining yield increases
+- Mining speed
+
+### Priority 2 - Woodcutting
+
+If you're focusing on Wood Quartermaster Tasks, invest heavily into Woodcutting tree.
+
+Try to unlock every gathering-related skill as early as possible.
+
 ### Left: Mining
 
 | Skill | Effect | Max Level | Cost |
