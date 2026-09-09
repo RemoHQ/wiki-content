@@ -66,6 +66,10 @@ These are the commands every new player should know.
 |----------|-------------|
 | `/nstrike` | Airstrike ability |
 
+> 💡 **Airstrike Tip**
+>
+> Remember to have an empty slot on your hotbar so that the skill can spawn a flare in it.
+
 ---
 
 # Shop Commands
