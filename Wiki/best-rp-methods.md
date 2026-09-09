@@ -36,7 +36,7 @@ Learn the fastest and most reliable ways to earn RP throughout your progression,
 
 ## Step-by-Step
 1. Wait for night-time (use /tod to check sunset).
- Night lasts about 4 minutes.
+Night lasts about 4 minutes.
 2. Consume Mushroom Soup to increase farming yield. (+50% Farming Yield)
 3. Use the Reaping Spade on the center planter of your 3x3 setup to harvest all crops instantly.
 4. Immediately replant the seeds and use Fertile Bone to skip growth.
@@ -53,70 +53,17 @@ This method is currently one of the fastest and most consistent RP farming strat
 
 > 💡 **Bone Farming Tip**
 >
-> Use a **Hunter Set**, **Baloo Knife**, **Bear Pie**, and **Super Serum** to farm Bone Fragments efficiently.
+> Use a **Hunter Set**, **Baloo Knife**, **Bear Pie/Survival pie**, and **Harvesting tea** (don't use it if you are using survival pie) to farm Bone Fragments efficiently.
 >
 > Alternatively, buy them through the Stock Market in **`/s`**.
 >
 > Try not to pay more than **10-15 RP** per Bone Fragment to keep the method profitable.
 
-## Method 2 - Sheet Metal Flipping
-
-**Difficulty:** ⭐⭐⭐☆☆  
-**Startup Cost:** 💰💰💰☆☆  
-**Profitability:** ⭐⭐⭐⭐☆  
-**Scalability:** ⭐⭐⭐⭐⭐
-
-### Requirements: 
-- Scrap *(100k is enough to get started, but the more you invest, the higher your potential profit.)*
-
-#### How to get Scrap: 
-#### Selling Plants
-
-- You can plant roses, sunflowers or orchids with the same method as above. 
-- Sell ​​your plants at the outpost for scrap; it doesn't matter which flower you sell, they are all worth the same **(10x Flower = 15 Scrap)**.
-
-#### Buying Scrap from other players
-
-- Buy Scrap from other players with vending machines or in the **`/s`** stock Market at the HUB. 
- - Buying Scrap from other players is the fastest way to obtain large amounts of Scrap, but also the least profitable. Always calculate your costs before purchasing to ensure you still make a profit.
-
-### Step-by-Step
-
-1. Buy Sheet Metal from Outpost at a **maximum rate of 50 scrap per Sheet Metal**.
-  - If you use scrap that you bought from other players, the maximum price will decrease accordingly!
-2. Sell the Sheet Metal in the world offering the highest RP rate. The maximum selling value is **70 RP** per Sheet Metal.
-3. You can't use **`/pricecheck`** on sheet metal, so you need to look through all the worlds and raid worlds for the highest selling price!
-   
-> ⚠ **Storage Tip**
->
-> Sheet Metal normally stacks to **1,000**.
->
-> If you use **Drones**, it can be stacked up to **9,999**, making large sales much easier.
-   
-> 💡 **Profit Example**
->
-> Suppose:
->
-> - Sheet Metal costs **30 Scrap**
-> - You bought your Scrap for **1.5 RP each**
-> - The selling world pays **70 RP** per Sheet Metal
->
-> **Calculation**
->
-> ```
-> 30 × 1.5 = 45 RP (your total cost) 
-> 70 ÷ 45 = 1.55
-> ```
-> 
-> This means you earn **1.55 RP for every RP invested**.
->
-> If your Scrap comes from farming flowers instead of buying it, simply divide the selling price by the buying price.
-
-## Method 3 - Tactical Gloves Recycling
+## Method 2 - Tactical Gloves Recycling
 
 **Difficulty:** ⭐☆☆☆☆  
 **Startup Cost:** 💰☆☆☆☆  
-**Profitability:** ⭐⭐⭐⭐⭐  
+**Profitability:** ⭐⭐⭐⭐☆   
 **Scalability:** ⭐☆☆☆☆
 
 This method offers one of the **highest RP-per-Scrap returns** in the game and can be used from **Level 1**. However, it is **not recommended for long-term farming**, as buying Tactical Gloves one at a time makes it very time-consuming, even for larger groups.
@@ -166,3 +113,65 @@ This method offers one of the **highest RP-per-Scrap returns** in the game and c
 > 💡 **Final Tip**
 >
 > These are currently some of the most popular and reliable RP methods on Brits PvE Worlds. As the server evolves, new methods may appear, so don't be afraid to experiment and discover profitable strategies of your own.
+
+## Method 3 - Quarries (End game)
+**Difficulty:** ⭐⭐⭐⭐☆  
+**Startup Cost:** 💰💰💰💰💰  
+**Profitability:** ⭐⭐⭐⭐⭐  
+**Scalability:** ⭐⭐☆☆☆  
+
+This method is the best for passive profitablity at the end game, but it's very costly to fully upgrade. The amount of RP you earn scales with the size of your team.
+
+### Requirements
+- Preferably **any rank or prestige** that gives you more quarry slots.  
+- Access to **batteries, bleach, tape and both type of quarries**.
+
+### Step-by-Step
+1. Get starting pumpjacks and mining quarries to your limit. Try to get your drops to around **48 HQM** and **53–55 crude**.
+   - They are obtainable by purchasing from players and/or looting them.
+   - The best way to loot them are **brown boxes on roads** and **hard+ raid/heli**.
+
+2. Establish the best way for you to get **batteries, bleach, tape and both types of quarries**.
+   - You can always buy **bleach/tape from /s** if you have money from **Method 1*.
+   - Batteries are pretty common in legendary helis and NM raids.
+
+3. Slowly but surely upgrade all of the quarries to **maximum level of 6**.
+   - Meanwhile you can run them, always make sure you have a net positive of diesiel.
+
+4. Once they are fully upgraded, you’re ready to start making money. Load diesel into the pumpjacks and quarries, then cook the crude and trade the low grade fuel at Outpost for more diesel. Keep repeating this process to maintain a net positive diesel balance while generating profit.
+
+5. Sell HQM you generated
+   - Make sure the price of hqm is about 6~ RP, you can always check it with **`/pricecheck hqm`** or **`/pc hqm`**
+
+### Some math   
+
+| Type | Per Minute | Per Hour |
+|---|---:|---:|
+| Pump Jack (Crude Oil) | 467.5 Crude Oil* | 28,050 Crude Oil |
+| Mining Quarry (HQM) | 416.5 HQM* | 24,990 HQM |
+
+*If they are fully maxed out
+
+>#### If you are Annual/Prestige 10, you get 5 mining quarries and 4 pumpjacks.
+> That means you gain almost 3mil HQM per day:   
+> (24,990 * 24) * 5 = 2,998,800 HQM/day    
+>
+> At 5.8 RP per HQM, that's about 17.4mil RP per day:    
+> 2,998,800 * 5.8 = 17,393,040 RP/day  
+>
+> **So in total you get about 17.4mil RP per day.**
+>
+> ---
+>
+>#### If you have no Rank/Prestige you get 2 mining quarries and 1 pumpjack.
+>
+> That means you gain almost 1.2mil HQM per day:
+> (24,990 * 24) * 2 = 1,199,520 HQM/day
+>
+> At 5.8 RP per HQM, that's about 7mil RP per day:
+> 1,199,520 * 5.8 = 6,957,216 RP/day
+>
+> **So in total you get about 7mil RP per day.**
+>
+> ---
+> #### **This is assuming all quarries are fully maxed out and running continuously.**
