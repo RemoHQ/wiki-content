@@ -18,10 +18,16 @@ Brits PvE Worlds uses a Skill Tree system that allows you to specialize your cha
 - Scavenging
 
 **Survivalcraft**
-- TBD
+- Skinning
+- Crafting & Building
+- Survival
+- Farming
 
 **Combat**
-- TBD
+- Hunting & Combat Support
+- Weapons
+- Explosives
+- Environmental Resistance
   
 **Vehicles**
 - Optional skill tree

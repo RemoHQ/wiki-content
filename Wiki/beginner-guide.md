@@ -12,15 +12,16 @@ Welcome to **Brits PvE Worlds**! This guide covers everything a new player needs
 
 ## First Steps
 
-When you first join the server, you’ll either spawn in a world (**1–8**, or **9–10** for VIPs) or in the HUB.
+When you first join the server, you’ll either spawn in a world 1-15 or in the HUB.
+
+You can switch servers using /w.
 
 ### The HUB
 
 The HUB is the central meeting point of the server.
 
 From here you can:
-- Travel to any World (1-10).
-- Access the Raid Worlds (1-4).
+- Use shops to buy stuff from people.
 - Use the main player market with **`/s`**.
 - Trade directly with other players using the trade windows.
 
@@ -30,7 +31,9 @@ You can return to the HUB at any time using **`/hub`**.
 
 ### Choose Your World
 
-Select the world where you want to build your main base. All worlds use the same map, so your choice won't significantly affect gameplay.
+Select the world where you want to build your main base. All worlds use the same map, so your choice won't significantly affect gameplay. 
+
+**Don't forget to favorite the world you picked with a star on top left!**
 
 ---
 
@@ -90,11 +93,12 @@ You can also use **`/sell`** to exchange valuable items, such as components, for
 
 > 💡 **Free Equipment**
 >
-> Looking for your first weapons or explosives? Visit the Raid Worlds by using **`/hub`**, then enter one of the red portals (**Raid World 1-4**). Inside you'll find six Bradley islands (**Brad 1-6**). Experienced players often leave behind unwanted gear that newer players can pick up. 
+> Looking for your first weapons or explosives? Visit the Raid Worlds by using **`/hub`**, then enter one of the red portals (**Raid World 1-5**). Inside you'll find six Bradley islands (**Brad 1-6**). Experienced players often leave behind unwanted gear that newer players can pick up. 
 
 > 💡 **Useful Commands**
 >
-> Use **`/info`** to view a list of server commands, activities, and other useful information.
+> Use **`/w`** to see all the avaliable worlds.
+> Use **`/wa``** to access your stash and achievements
 
 ---
 

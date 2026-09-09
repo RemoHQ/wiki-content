@@ -13,7 +13,8 @@ Deep Sea is a high-reward PvE event featuring multiple Cargo Ships protected by 
 > If you see a black bubble around a cargo, do NOT get close, its a taken cargo.
 >
 > Cargos that can be claimed will only have a purple circle on top of the water level.
-
+>
+> If you did enter the zone and lost the boat, you can always do `/boatrecover` (note: it only works in deep sea)
 ---
 
 ## Overview
@@ -24,15 +25,15 @@ Deep Sea is a custom event that expands Rust's vanilla Cargo Ship into a much la
 >
 > Deep Sea is currently one of the hardest PvE activities on the server.
 >
-> If you're new, consider mastering Patrol Helis and Bradleys before attempting it.
+> If you're new, consider mastering Patrol Helis and Dungeons before attempting it.
 
 ---
 
 ### Features
 
-- 5 Cargo Ships spawn every Deep Sea cycle.
-- Cargo Ships continue respawning until approximately **1 hour** remains in the event.
-- Each Cargo Ship is defended by Cobalt Scientists, Patrol Boats, and numerous Auto Turrets.
+- 10 Cargo Ships spawn every Deep Sea cycle, 5 initially and then 5 more respawns.
+- Cargo Ships continue respawning until approximately **1 hour** remains in the event or 5 cargos spawned.
+- Each Cargo Ship is defended by Cobalt Scientists and numerous Auto Turrets.
 
 > 💡 **Recommendation**
 >
@@ -54,8 +55,7 @@ Scientists use the same loot table found on Cargo Ships.
 
 ### Spawn Behavior
 
-- There are 5 cargo ships per Deep Sea, but they have the ability to respawn until there is 1 hour of Deep Sea left.  
-- No one is completely sure how this works right now (other than devs of reworked deep sea), and it is subject to change.
+- There are 5 cargo ships per Deep Sea, but they have the ability to respawn until there is 1 hour of Deep Sea left or 5 of them respawned.  
 
 ---
 
@@ -63,9 +63,9 @@ Scientists use the same loot table found on Cargo Ships.
 
 Each Cargo Ship offers excellent rewards, including:
 
-- Large amounts of Rockets and C4
+- Medium amounts of Rockets and C4
 - Locked Crates
-- Guaranteed Battery from Locked Crates
+- Battery from Locked Crates
 - Leviathan Armor Pieces
 - High-tier loot
 
@@ -83,6 +83,9 @@ Each Cargo Ship offers excellent rewards, including:
 - Use explosions from something that can rapid-fire them, like Ashmaker.  
 - If you don’t have that, use M249/AR with incendiary ammo.
 
+> 💡 **Tip**   
+> Bots **WILL always** respawn when you open a locked crate, so be ready
+
 ---
 
 ### Turrets
@@ -96,6 +99,13 @@ Each Cargo Ship offers excellent rewards, including:
 - Use something that heals you fast, like pumpkin pies (100% HP heal).
 - Always have a medkit in hotbar/Helping hands
 - **Be wary about turrets in the top middle, as there could be more than 1 per time**
+
+> 💡 **Tip**   
+> Turrets **WILL always** respawn when you open a locked crate, so be ready
+
+> 💡 **Perceptive Tip**
+>
+> If you have the **Perceptive** perk in the Raiding tree, use `/traps` while clearing Deep Sea cargos. The ability lasts 60 seconds, has a 60 second cooldown, and gives a 20% chance per perk level to see nearby traps. This is especially useful for checking turret positions before pushing onto or through a cargo.
 
 > ⚠ These turrets deal significantly more damage than vanilla Auto Turrets.
 
@@ -176,8 +186,9 @@ Each Cargo Ship offers excellent rewards, including:
 2. Kill all the bots that peek you. Get as close as you can to the middle of the boat, check for turrets. If you see any, shoot them with explosives.  
 3. Get on the cargo and check your surroundings for turrets.  
 4. If you don't see any, move to the other section while being careful and peeking for turrets/bots. If you get hit by a turret, eat a pumpkin pie and shoot it.
-5. Utilize cover as much as possible, listen for sounds around you, and memorize common turret spawn locations for easier future runs.
-6. Repeat Step 4 until cargo is done.
+5. When opening locked crates, always dive for any cover from turrets/bots
+6. Utilize cover as much as possible, listen for sounds around you, and memorize common turret spawn locations for easier future runs.
+7. Repeat Step 4 until cargo is done.
 
 ---
 
@@ -233,10 +244,12 @@ Each Cargo Ship offers excellent rewards, including:
 2. Get to the bottom floor door, **don't shoot scientists yet, to not activate turrets**.  
 3. As soon as you get inside, start spamming Ashmakers to kill all the bots (vampiric chest and berry spam should provide enough health).  
 4. When you are done with bots, look for turrets in the corners and clear them if they are present.  
-5. Get out in the back of the cargo when done looting and look out for turrets, if they are present clear them from both sides.  
-6. Get into the command room and get onto the top, be careful of 2 turrets up there.  
-7. From the top, shoot all of the turrets on the metal crates you can see.  
-8. Turrets should be left only in hallways and front by now, just proceed with caution and finish remaining threats.
+5. When opening locked crates, always dive for any cover from turrets
+6. Get out in the back of the cargo when done looting and look out for turrets, if they are present clear them from both sides.  
+7. Get into the command room and get onto the top, be careful of 2 turrets up there.  
+8. From the top, shoot all of the turrets on the metal crates you can see.  
+9. Turrets should be left only in hallways and front by now, just proceed with caution and finish remaining threats.
+
 
 ---
 
