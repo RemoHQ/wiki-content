@@ -129,6 +129,10 @@ These are the commands every new player should know.
 |----------|-------------|
 | `/nstrike` | Airstrike ability |
 
+> 💡 **Airstrike Tip**
+>
+> Remember to have an empty slot on your hotbar so that the skill can spawn a flare in it.
+
 ---
 
 # Shop Commands
@@ -220,6 +224,14 @@ These are the commands every new player should know.
 | `/shareclear` | Clear permissions |
 | `/checkit` | Check loot protection |
 | `/autoauthui` | Configure automatic authorization |
+
+---
+
+# Clan & Alliances
+| Command | Description |
+|----------|-------------|
+| `/clan` | Manage your team / clan with an updated UI |
+| `/lfg` | looking for group for world events |
 
 ---
 
