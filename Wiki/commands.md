@@ -156,6 +156,14 @@ These are the commands every new player should know.
 
 ---
 
+# Clan & Alliances
+| Command | Description |
+|----------|-------------|
+| `/clan` | Manage your team / clan with an updated UI |
+| `/lfg` | looking for group for world events |
+
+---
+
 # Miscellaneous
 
 | Command | Description |
